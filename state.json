@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-09-23T22:40:36.646775+00:00",
-    "total_checks": 16648,
+    "last_check_at": "2026-09-23T22:50:33.420021+00:00",
+    "total_checks": 16649,
     "total_restocks": 4
   },
   "dashboard_message_id": "1536515159437082797",
@@ -168,7 +168,7 @@
       "3922969"
     ]
   },
-  "last_deploy_sha": "5a47ac154d836f1c26e6fef719ed48292d0e02a2",
+  "last_deploy_sha": "d217143aa46a143144c8e0d40851e18c2a2b32c9",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -180,7 +180,6 @@
         "lowest_price_at": "2026-08-20T04:10:43.352483+00:00",
         "out_since": "2026-06-17T14:50:55.842568+00:00",
         "price_history": [
-          35.0,
           30.51,
           30.49,
           35.0,
@@ -209,7 +208,8 @@
           30.51,
           35.0,
           30.51,
-          30.56
+          30.56,
+          30.74
         ]
       }
     },
@@ -221,10 +221,9 @@
         "in_stock": true,
         "lowest_price": "€ 42.06",
         "lowest_price_at": "2026-05-31T01:40:41.606861+00:00",
-        "previous_price": "49.00$",
-        "price": "€ 42.78",
+        "previous_price": "€ 42.78",
+        "price": "€ 43.03",
         "price_history": [
-          49.0,
           42.71,
           49.0,
           42.71,
@@ -253,7 +252,8 @@
           42.72,
           42.78,
           49.0,
-          42.78
+          42.78,
+          43.03
         ]
       }
     },
@@ -272,10 +272,9 @@
             "start": "2026-06-17T20:50:44.984934+00:00"
           }
         ],
-        "previous_price": "€ 21.80",
-        "price": "€ 21.83",
+        "previous_price": "€ 21.83",
+        "price": "€ 21.95",
         "price_history": [
-          21.87,
           21.9,
           21.92,
           21.91,
@@ -304,7 +303,8 @@
           21.78,
           21.76,
           21.8,
-          21.83
+          21.83,
+          21.95
         ],
         "restock_count": 1
       },
@@ -346,10 +346,9 @@
         "in_stock": true,
         "lowest_price": "€ 15.47",
         "lowest_price_at": "2026-09-09T22:30:48.481157+00:00",
-        "previous_price": "€ 15.69",
-        "price": "€ 15.72",
+        "previous_price": "€ 15.72",
+        "price": "€ 15.81",
         "price_history": [
-          15.73,
           15.74,
           15.77,
           15.78,
@@ -378,7 +377,8 @@
           15.68,
           15.67,
           15.69,
-          15.72
+          15.72,
+          15.81
         ]
       },
       "IGF-1 LR3 1 mg": {
@@ -404,10 +404,9 @@
             "start": "2026-08-09T18:40:50.595472+00:00"
           }
         ],
-        "previous_price": "€ 69.74",
-        "price": "€ 69.85",
+        "previous_price": "€ 69.85",
+        "price": "€ 70.26",
         "price_history": [
-          70.08,
           70.15,
           70.11,
           70.3,
@@ -436,7 +435,8 @@
           69.69,
           69.62,
           69.74,
-          69.85
+          69.85,
+          70.26
         ],
         "restock_count": 2
       },
@@ -499,10 +499,9 @@
             "start": "2026-06-13T20:10:46.910560+00:00"
           }
         ],
-        "previous_price": "€ 39.23",
-        "price": "€ 39.29",
+        "previous_price": "€ 39.29",
+        "price": "€ 39.52",
         "price_history": [
-          39.56,
           39.24,
           39.03,
           38.97,
@@ -531,7 +530,8 @@
           39.2,
           39.16,
           39.23,
-          39.29
+          39.29,
+          39.52
         ],
         "restock_count": 1
       }
@@ -539,13 +539,13 @@
     "https://bgpharmadrugs.to/product/skinoren-20-30-gr-cream-azelaic-acid/": {
       "Azelaic Acid 20% 30 gr cream": {
         "found": true,
-        "highest_price": "€ 17.46",
-        "highest_price_at": "2026-09-22T22:50:46.038190+00:00",
+        "highest_price": "€ 17.56",
+        "highest_price_at": "2026-09-23T22:50:35.358329+00:00",
         "in_stock": true,
         "lowest_price": "€ 17.18",
         "lowest_price_at": "2026-09-09T22:30:48.481250+00:00",
-        "previous_price": "€ 17.44",
-        "price": "€ 17.46",
+        "previous_price": "€ 17.46",
+        "price": "€ 17.56",
         "price_history": [
           17.36,
           17.32,
@@ -564,20 +564,21 @@
           17.42,
           17.41,
           17.44,
-          17.46
+          17.46,
+          17.56
         ]
       }
     },
     "https://bgpharmadrugs.to/product/tazaroten/": {
       "Tazarotene cream/gel 0.1% (60 G/ box)": {
         "found": true,
-        "highest_price": "€ 30.56",
-        "highest_price_at": "2026-09-22T22:50:46.038197+00:00",
+        "highest_price": "€ 30.74",
+        "highest_price_at": "2026-09-23T22:50:35.358337+00:00",
         "in_stock": true,
         "lowest_price": "€ 30.07",
         "lowest_price_at": "2026-09-09T22:30:48.481257+00:00",
-        "previous_price": "€ 30.51",
-        "price": "€ 30.56",
+        "previous_price": "€ 30.56",
+        "price": "€ 30.74",
         "price_history": [
           30.37,
           30.31,
@@ -596,7 +597,8 @@
           30.49,
           30.46,
           30.51,
-          30.56
+          30.56,
+          30.74
         ]
       }
     },
@@ -608,10 +610,9 @@
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481236+00:00",
-        "previous_price": "€21.80",
-        "price": "€21.83",
+        "previous_price": "€21.83",
+        "price": "€21.95",
         "price_history": [
-          21.87,
           21.9,
           21.92,
           21.91,
@@ -640,7 +641,8 @@
           21.78,
           21.76,
           21.8,
-          21.83
+          21.83,
+          21.95
         ]
       },
       "0.05% 30 grams": {
@@ -650,10 +652,9 @@
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481243+00:00",
-        "previous_price": "€21.80",
-        "price": "€21.83",
+        "previous_price": "€21.83",
+        "price": "€21.95",
         "price_history": [
-          21.87,
           21.9,
           21.92,
           21.91,
@@ -682,7 +683,8 @@
           21.78,
           21.76,
           21.8,
-          21.83
+          21.83,
+          21.95
         ]
       }
     }
@@ -691,7 +693,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-09-23T22:40:41.924861+00:00",
+      "last_check_at": "2026-09-23T22:50:39.421353+00:00",
       "price": "",
       "source": ""
     }
