@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-09-24T21:10:34.849252+00:00",
-    "total_checks": 16783,
+    "last_check_at": "2026-09-24T21:20:48.316734+00:00",
+    "total_checks": 16784,
     "total_restocks": 4
   },
   "dashboard_message_id": "1536515159437082797",
@@ -51,6 +51,10 @@
     {
       "key": "0.025% 20 grams",
       "label": "Tretinoin 0.025% 20g"
+    },
+    {
+      "key": "0.05% 30 grams",
+      "label": "Tretinoin 0.05% 30g"
     },
     {
       "key": "Azelaic Acid 20% 30 gr cream",
@@ -164,7 +168,7 @@
       "3922969"
     ]
   },
-  "last_deploy_sha": "382c7aeb7daa12a8fe32f93313888732f644437b",
+  "last_deploy_sha": "f537092ee2ac24cdce8d1524f4967c3f48f9f634",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -689,7 +693,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-09-24T21:10:38.625923+00:00",
+      "last_check_at": "2026-09-24T21:20:54.913577+00:00",
       "price": "",
       "source": ""
     }
