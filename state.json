@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-10-02T16:01:00.440705+00:00",
-    "total_checks": 17902,
+    "last_check_at": "2026-10-02T16:10:39.646109+00:00",
+    "total_checks": 17903,
     "total_restocks": 5
   },
   "dashboard_message_id": "1536515159437082797",
@@ -169,7 +169,7 @@
       "3929982"
     ]
   },
-  "last_deploy_sha": "feb007719840c3c5c6b2209026ef7147841a0d63",
+  "last_deploy_sha": "8a37c7362429c705f39970e389780002b71fea19",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -713,7 +713,7 @@
     "Crocs Lightning McQueen": {
       "currency": "EUR",
       "in_stock": true,
-      "last_check_at": "2026-10-02T16:01:02.854589+00:00",
+      "last_check_at": "2026-10-02T16:10:42.321665+00:00",
       "price": "69.99",
       "source": "https://www.crocs.eu/p/classic-clog-lightning-mcqueen/205759.html?cid=610"
     }
