@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-10-14T01:40:35.387369+00:00",
-    "total_checks": 19536,
+    "last_check_at": "2026-10-14T01:50:38.479336+00:00",
+    "total_checks": 19537,
     "total_restocks": 5
   },
   "dashboard_message_id": "1536515159437082797",
@@ -15,6 +15,8 @@
     "Roaccutane 20 mg (Roche)",
     "Minoxidil 5 mg",
     "Tretinoin",
+    "Azelaic Acid 20% 30g",
+    "Tazarotene 0.1% 60g",
     "Crocs Lightning McQueen"
   ],
   "dashboard_variants": [
@@ -55,17 +57,23 @@
       "label": "Tretinoin 0.05% 30g"
     },
     {
+      "key": "Azelaic Acid 20% 30 gr cream",
+      "label": "Azelaic Acid 20% 30g"
+    },
+    {
+      "key": "Tazarotene cream/gel 0.1% (60 G/ box)",
+      "label": "Tazarotene 0.1% 60g"
+    },
+    {
       "key": "Crocs Lightning McQueen",
       "label": "Crocs Lightning McQueen"
     }
   ],
   "error_report": {
-    "active": true,
-    "fingerprint": "0357f4aab9bf76f5fa4c0e4c3221465b6ff76ac6",
-    "last_sent_at": "2026-10-14T01:40:41.996302+00:00"
+    "active": false
   },
   "forum": {
-    "last_check_at": "2026-10-13T23:40:45.844472+00:00",
+    "last_check_at": "2026-10-14T01:50:40.630522+00:00",
     "seeded": true,
     "seen_post_ids": [
       "3818721",
@@ -163,7 +171,7 @@
       "3933798"
     ]
   },
-  "last_deploy_sha": "e52630a208ba61e858fa6068838a03fc42ecdd25",
+  "last_deploy_sha": "4f29d3e203e35688c243b75104e6c1228d270eaa",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -538,6 +546,34 @@
         "restock_count": 1
       }
     },
+    "https://bgpharmadrugs.to/product/skinoren-20-30-gr-cream-azelaic-acid/": {
+      "Azelaic Acid 20% 30 gr cream": {
+        "found": true,
+        "highest_price": "€ 17.85",
+        "highest_price_at": "2026-10-14T01:50:40.624631+00:00",
+        "in_stock": true,
+        "lowest_price": "€ 17.85",
+        "lowest_price_at": "2026-10-14T01:50:40.624631+00:00",
+        "price": "€ 17.85",
+        "price_history": [
+          17.85
+        ]
+      }
+    },
+    "https://bgpharmadrugs.to/product/tazaroten/": {
+      "Tazarotene cream/gel 0.1% (60 G/ box)": {
+        "found": true,
+        "highest_price": "€ 31.24",
+        "highest_price_at": "2026-10-14T01:50:40.624749+00:00",
+        "in_stock": true,
+        "lowest_price": "€ 31.24",
+        "lowest_price_at": "2026-10-14T01:50:40.624749+00:00",
+        "price": "€ 31.24",
+        "price_history": [
+          31.24
+        ]
+      }
+    },
     "https://bgpharmadrugs.to/product/tretinoin/": {
       "0.025% 20 grams": {
         "found": true,
@@ -629,7 +665,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-10-14T01:40:40.248365+00:00",
+      "last_check_at": "2026-10-14T01:50:46.290341+00:00",
       "price": "",
       "source": ""
     }
