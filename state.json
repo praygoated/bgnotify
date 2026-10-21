@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-10-21T00:50:38.638128+00:00",
-    "total_checks": 20537,
+    "last_check_at": "2026-10-21T01:00:50.075504+00:00",
+    "total_checks": 20538,
     "total_restocks": 5
   },
   "dashboard_message_id": "1536515159437082797",
@@ -171,7 +171,7 @@
       "3933798"
     ]
   },
-  "last_deploy_sha": "df543c183cab85c4da4d5c206588890b23a98f7c",
+  "last_deploy_sha": "f33ae35b6a223908ea5dd381f3afac14a0b6bf33",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -677,7 +677,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-10-21T00:50:45.214866+00:00",
+      "last_check_at": "2026-10-21T01:00:54.828618+00:00",
       "price": "",
       "source": ""
     }
