@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-11-12T02:00:57.550022+00:00",
-    "total_checks": 23695,
+    "last_check_at": "2026-11-12T02:10:44.219780+00:00",
+    "total_checks": 23696,
     "total_restocks": 5
   },
   "dashboard_message_id": "1536515159437082797",
@@ -175,7 +175,7 @@
       "3948309"
     ]
   },
-  "last_deploy_sha": "657c036ad5537148c32e0dbf6ba932070927d174",
+  "last_deploy_sha": "47f5703ef3239acb0e38e732a7241fd5abbebf8a",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -628,15 +628,14 @@
     "https://bgpharmadrugs.to/product/tretinoin/": {
       "0.025% 20 grams": {
         "found": true,
-        "highest_price": "€22.53",
-        "highest_price_at": "2026-11-12T00:00:59.776561+00:00",
+        "highest_price": "€31.55",
+        "highest_price_at": "2026-11-12T02:10:46.230353+00:00",
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481236+00:00",
-        "previous_price": "€22.38",
-        "price": "€22.53",
+        "previous_price": "€22.53",
+        "price": "€31.55",
         "price_history": [
-          22.24,
           22.19,
           22.27,
           22.19,
@@ -665,20 +664,20 @@
           22.44,
           22.27,
           22.38,
-          22.53
+          22.53,
+          31.55
         ]
       },
       "0.05% 30 grams": {
         "found": true,
-        "highest_price": "€22.53",
-        "highest_price_at": "2026-11-12T00:00:59.776565+00:00",
+        "highest_price": "€31.55",
+        "highest_price_at": "2026-11-12T02:10:46.230360+00:00",
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481243+00:00",
-        "previous_price": "€22.38",
-        "price": "€22.53",
+        "previous_price": "€22.53",
+        "price": "€31.55",
         "price_history": [
-          22.24,
           22.19,
           22.27,
           22.19,
@@ -707,7 +706,8 @@
           22.44,
           22.27,
           22.38,
-          22.53
+          22.53,
+          31.55
         ]
       }
     }
@@ -716,7 +716,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-11-12T02:01:01.782645+00:00",
+      "last_check_at": "2026-11-12T02:10:47.917279+00:00",
       "price": "",
       "source": ""
     }
