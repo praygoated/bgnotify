@@ -1,8 +1,8 @@
 {
   "bot_stats": {
     "first_check_at": "2026-05-20T18:50:44.075159+00:00",
-    "last_check_at": "2026-11-18T23:10:38.973284+00:00",
-    "total_checks": 24672,
+    "last_check_at": "2026-11-18T23:20:38.991614+00:00",
+    "total_checks": 24673,
     "total_restocks": 5
   },
   "dashboard_message_id": "1536515159437082797",
@@ -175,7 +175,7 @@
       "3948309"
     ]
   },
-  "last_deploy_sha": "dcc4650d5377eb1f98b2423b0a44e9cccae81846",
+  "last_deploy_sha": "01e7671226aea7a7fd1c8d36d68985f79f2517f7",
   "products": {
     "https://bgpharmadrugs.to/product/minoxytop-5-mg-minoxidil-tablets-ip/": {
       "Minoxidil 5 mg": {
@@ -187,7 +187,6 @@
         "lowest_price_at": "2026-08-20T04:10:43.352483+00:00",
         "out_since": "2026-06-17T14:50:55.842568+00:00",
         "price_history": [
-          35.0,
           31.65,
           31.68,
           35.0,
@@ -216,7 +215,8 @@
           31.82,
           31.81,
           35.0,
-          31.81
+          31.81,
+          31.88
         ]
       }
     },
@@ -228,10 +228,9 @@
         "in_stock": true,
         "lowest_price": "€ 42.06",
         "lowest_price_at": "2026-05-31T01:40:41.606861+00:00",
-        "previous_price": "49.00$",
-        "price": "€ 44.54",
+        "previous_price": "€ 44.54",
+        "price": "€ 44.63",
         "price_history": [
-          44.35,
           49.0,
           44.35,
           49.0,
@@ -260,7 +259,8 @@
           49.0,
           44.54,
           49.0,
-          44.54
+          44.54,
+          44.63
         ]
       }
     },
@@ -279,10 +279,9 @@
             "start": "2026-06-17T20:50:44.984934+00:00"
           }
         ],
-        "previous_price": "€ 22.73",
-        "price": "€ 22.72",
+        "previous_price": "€ 22.72",
+        "price": "€ 22.77",
         "price_history": [
-          22.29,
           22.35,
           22.41,
           22.32,
@@ -311,7 +310,8 @@
           22.63,
           22.65,
           22.73,
-          22.72
+          22.72,
+          22.77
         ],
         "restock_count": 1
       },
@@ -348,15 +348,14 @@
       },
       "GHK CU 50 mg": {
         "found": true,
-        "highest_price": "€ 16.37",
-        "highest_price_at": "2026-11-16T23:01:10.771752+00:00",
+        "highest_price": "€ 16.40",
+        "highest_price_at": "2026-11-18T23:20:40.416991+00:00",
         "in_stock": true,
         "lowest_price": "€ 15.47",
         "lowest_price_at": "2026-09-09T22:30:48.481157+00:00",
-        "previous_price": "€ 16.37",
-        "price": "€ 16.36",
+        "previous_price": "€ 16.36",
+        "price": "€ 16.40",
         "price_history": [
-          16.05,
           16.09,
           16.13,
           16.07,
@@ -385,7 +384,8 @@
           16.29,
           16.31,
           16.37,
-          16.36
+          16.36,
+          16.4
         ]
       },
       "IGF-1 LR3 1 mg": {
@@ -395,8 +395,8 @@
       },
       "Retatrutide 30 mg": {
         "found": true,
-        "highest_price": "€ 72.74",
-        "highest_price_at": "2026-11-16T23:01:10.771790+00:00",
+        "highest_price": "€ 72.87",
+        "highest_price_at": "2026-11-18T23:20:40.417030+00:00",
         "in_stock": true,
         "last_restock_at": "2026-09-02T09:38:01.208172+00:00",
         "lowest_price": "€ 68.48",
@@ -411,10 +411,9 @@
             "start": "2026-08-09T18:40:50.595472+00:00"
           }
         ],
-        "previous_price": "€ 72.74",
-        "price": "€ 72.72",
+        "previous_price": "€ 72.72",
+        "price": "€ 72.87",
         "price_history": [
-          71.5,
           71.7,
           71.42,
           71.7,
@@ -443,7 +442,8 @@
           72.4,
           72.48,
           72.74,
-          72.72
+          72.72,
+          72.87
         ],
         "restock_count": 2
       },
@@ -514,10 +514,9 @@
             "start": "2026-06-13T20:10:46.910560+00:00"
           }
         ],
-        "previous_price": "€ 40.91",
-        "price": "€ 40.90",
+        "previous_price": "€ 40.90",
+        "price": "€ 40.99",
         "price_history": [
-          40.11,
           45.0,
           40.11,
           45.0,
@@ -546,7 +545,8 @@
           40.73,
           40.77,
           40.91,
-          40.9
+          40.9,
+          40.99
         ],
         "restock_count": 1
       }
@@ -554,13 +554,13 @@
     "https://bgpharmadrugs.to/product/skinoren-20-30-gr-cream-azelaic-acid/": {
       "Azelaic Acid 20% 30 gr cream": {
         "found": true,
-        "highest_price": "€ 18.18",
-        "highest_price_at": "2026-11-16T23:01:10.771849+00:00",
+        "highest_price": "€ 18.22",
+        "highest_price_at": "2026-11-18T23:20:40.417092+00:00",
         "in_stock": true,
         "lowest_price": "€ 17.79",
         "lowest_price_at": "2026-10-17T12:30:51.273543+00:00",
-        "previous_price": "€ 18.12",
-        "price": "€ 18.18",
+        "previous_price": "€ 18.18",
+        "price": "€ 18.22",
         "price_history": [
           17.85,
           17.93,
@@ -588,20 +588,21 @@
           18.08,
           18.1,
           18.12,
-          18.18
+          18.18,
+          18.22
         ]
       }
     },
     "https://bgpharmadrugs.to/product/tazaroten/": {
       "Tazarotene cream/gel 0.1% (60 G/ box)": {
         "found": true,
-        "highest_price": "€ 31.82",
-        "highest_price_at": "2026-11-16T23:01:10.771856+00:00",
+        "highest_price": "€ 31.88",
+        "highest_price_at": "2026-11-18T23:20:40.417099+00:00",
         "in_stock": true,
         "lowest_price": "€ 31.13",
         "lowest_price_at": "2026-10-17T12:30:51.273549+00:00",
-        "previous_price": "€ 31.82",
-        "price": "€ 31.81",
+        "previous_price": "€ 31.81",
+        "price": "€ 31.88",
         "price_history": [
           31.24,
           31.37,
@@ -630,22 +631,22 @@
           31.68,
           31.71,
           31.82,
-          31.81
+          31.81,
+          31.88
         ]
       }
     },
     "https://bgpharmadrugs.to/product/tretinoin/": {
       "0.025% 20 grams": {
         "found": true,
-        "highest_price": "€31.82",
-        "highest_price_at": "2026-11-16T23:01:10.771834+00:00",
+        "highest_price": "€31.88",
+        "highest_price_at": "2026-11-18T23:20:40.417077+00:00",
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481236+00:00",
-        "previous_price": "€31.82",
-        "price": "€31.81",
+        "previous_price": "€31.81",
+        "price": "€31.88",
         "price_history": [
-          22.35,
           22.41,
           22.32,
           22.41,
@@ -674,20 +675,20 @@
           31.68,
           31.71,
           31.82,
-          31.81
+          31.81,
+          31.88
         ]
       },
       "0.05% 30 grams": {
         "found": true,
-        "highest_price": "€31.82",
-        "highest_price_at": "2026-11-16T23:01:10.771842+00:00",
+        "highest_price": "€31.88",
+        "highest_price_at": "2026-11-18T23:20:40.417084+00:00",
         "in_stock": true,
         "lowest_price": "€21.48",
         "lowest_price_at": "2026-09-09T22:30:48.481243+00:00",
-        "previous_price": "€31.82",
-        "price": "€31.81",
+        "previous_price": "€31.81",
+        "price": "€31.88",
         "price_history": [
-          22.35,
           22.41,
           22.32,
           22.41,
@@ -716,7 +717,8 @@
           31.68,
           31.71,
           31.82,
-          31.81
+          31.81,
+          31.88
         ]
       }
     }
@@ -725,7 +727,7 @@
     "Crocs Lightning McQueen": {
       "currency": "",
       "in_stock": false,
-      "last_check_at": "2026-11-18T23:10:41.610039+00:00",
+      "last_check_at": "2026-11-18T23:20:42.355496+00:00",
       "price": "",
       "source": ""
     }
